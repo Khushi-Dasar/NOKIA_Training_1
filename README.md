@@ -176,14 +176,6 @@ python app.py
 
 ---
 
-## 👩‍💻 Author
-
-**Khushi Dasar**
-B.Tech CSE (AI & ML)
-Aspiring Data Scientist & ML Engineer
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
